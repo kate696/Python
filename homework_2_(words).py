@@ -1,6 +1,3 @@
-
-import sys
-
 txt = open("article.txt", "r")
 txt1 =(txt.read().lower())
 
